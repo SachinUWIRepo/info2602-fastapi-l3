@@ -173,7 +173,6 @@ def complete_all(username:str):
 
         print(f"Marked all todos as complete for {username}")
 
-You can view a completed version of this lab at the following link
 
 if __name__ == "__main__":
     cli()
